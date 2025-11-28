@@ -1,0 +1,109 @@
+@media(width>768px) {
+    header {
+        background-size: cover;
+    }
+
+    header img {
+        margin-top: 131px;
+        margin-bottom: 56px;
+    }
+
+    h1 {
+        font-size: 38px;
+        width: 616px;
+    }
+
+    .headerp {
+        width: 616px;
+        font-size: 20px;
+    }
+
+    .btnbox {
+        margin-top: 48px;
+        width: 470px;
+        flex-direction: row;
+    }
+
+    main {
+        width: 616px;
+        height: 1192px;
+    }
+
+    .maintxt {
+        width: 100%;
+        height: 151px;
+    }
+
+    .maintxt p {
+        width: 100%;
+        font-size: 20px;
+        height: 90px;
+        line-height: 150%;
+        letter-spacing: 0.15px;
+    }
+
+
+    .categorybox1 {
+        width: 350px;
+        height: 386px;
+        margin-top: 96px;
+    }
+
+    main img {
+        width: 608px;
+        height: 462px;
+    }
+
+    article {
+        width: 616px;
+        height: 554px;
+        margin-top: 157px;
+    }
+
+    .tabmob {
+        display: none;
+    }
+
+    .tabtab {
+        display: inline;
+    }
+
+    h3 {
+        font-size: 36px;
+    }
+
+    h4 {
+        font-size: 20px;
+
+    }
+
+    .categorybox2 {
+        width: 616px;
+        height: 780px;
+    }
+
+    .h4 {
+        font-size: 16px;
+        width: 400px;
+        height: 48px;
+        line-height: 150%;
+    }
+
+    section {
+        width: 592px;
+        height: 174px;
+        gap: 56px;
+    }
+
+    .google {
+        width: 100%;
+        flex-direction: row;
+        gap: 80px;
+    }
+
+    .vector {
+        flex-direction: row;
+        gap: 80px;
+    }
+
+}
