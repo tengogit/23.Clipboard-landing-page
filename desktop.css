@@ -1,4 +1,4 @@
-@media(width>1440px) {
+@media(min-width:1440px) {
     main {
         width: 1440px;
 
@@ -34,7 +34,8 @@
 
     article {
         width: 810px;
-        height: 688px;
+   
+        
     }
 
     h4 {
